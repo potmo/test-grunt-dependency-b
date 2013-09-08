@@ -1,6 +1,6 @@
 {
   "name": "test-grunt-dependency-b",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The Second Dependency",
   "main": "index.js",
   "scripts": {
